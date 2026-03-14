@@ -1,2 +1,2 @@
 # linear-regression-project
-Use linear regression to predict
+Use linear regression to predict housing prices
